@@ -16,3 +16,6 @@ xrandr --rate 240
 # set red shift
 redshift -P -O 3000
 
+# add gui audio controller
+sudo apt install pavucontrol
+
