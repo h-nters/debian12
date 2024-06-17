@@ -4,7 +4,7 @@ debian 12 system config/notes/build
 # copy default xinit config to home dir
 cp xinitrc to ~/.xinitrc
 
-# delete all text in file
+# delete all text in ~/.xinitrc and add
 exec dwm
 
 # packages to install
