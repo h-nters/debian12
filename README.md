@@ -21,6 +21,5 @@ sudo apt install pavucontrol
 
 # edit dwm config.h
 # set modkey to windows key, tut on dwm site
-make
 sudo make install
 
